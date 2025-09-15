@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="247aa30b-4a82-4518-9e12-945e4d819d02" name="Changes" comment="">
+    <list default="true" id="247aa30b-4a82-4518-9e12-945e4d819d02" name="Changes" comment="add white chocolate chips">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "Merging alice",
+    "git-widget-placeholder": "task__3",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -113,7 +113,39 @@
       <option name="project" value="LOCAL" />
       <updated>1757966495172</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'alice'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <option name="closed" value="true" />
+      <created>1757967463704</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757967463704</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge branch 'alice'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <option name="closed" value="true" />
+      <created>1757967564122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757967564122</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add white chocolate chips">
+      <option name="closed" value="true" />
+      <created>1757967598994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757967598994</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add white chocolate chips">
+      <option name="closed" value="true" />
+      <created>1757967650316</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757967650316</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed bug" />
     <MESSAGE value="finished task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished task 1" />
+    <MESSAGE value="Merge branch 'alice'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
+    <MESSAGE value="add white chocolate chips" />
+    <option name="LAST_COMMIT_MESSAGE" value="add white chocolate chips" />
   </component>
 </project>
